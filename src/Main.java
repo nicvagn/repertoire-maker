@@ -33,7 +33,7 @@ public class Main extends JFrame implements ActionListener {
 
 
     public Main(){
-        super("PGN Reader");
+        super("Rep. Builder");
 
         layout = new GridBagLayout();
         setLayout(layout);
